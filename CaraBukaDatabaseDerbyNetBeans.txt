@@ -7,3 +7,4 @@ Untuk membuka database netbeans
 -Lalu klik kanan pada javaDB dan pilih properties
 -Pada Database Location, arahkan path pada Directory/Folder yang tadi sudah diekstrak
 -Secara otomatis isi pada JavaDB akan berubah dan menampilkan MobilDB dan Sample
+-Untuk mengecek kesamaan dapat dilihat pada video yang tersedia
