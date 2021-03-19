@@ -1,0 +1,38 @@
+Saya Muhammad Ilham Malik mengerjakan Tugas Praktikum 2 dari mata kuliah 
+Desain PBO untuk keberkahannNYa maka saya tidak melakukan kecurangan 
+seperti yang telah dispesifikasikan.
+
+Kesulitan
+-Kesulitan yang paling utama adalah mencari library terkait
+-Pada awal pembuatan project netbeans yang digunakan adalah versi 12.0 dan mungkin karena suatu hal
+ ada kesalahan saat membuat JFrame form. Form ada namun class mainnya tidak dapat terdeteksi project dan package
+ Pada saat pembuatan JFrame setiap akan dibuat nama baru akan muncul error "The name of file already exist".
+ namun saat dicoba untuk meng-run project class main yang ada pada jFrame tidak terdeteksi. Solusinya mendownload
+ versi netbeans yang lebih baru
+
+Hal Baru Yang Dipelajari
+-Tentunya dari kesulitan itu hal baru yang dipelajari seperti mencari library tertentu
+-Jika ada kesalahan seperti error di atas mungkin menginstall netbeans dapat dilakukan
+-Mensetup server bawaan netbeans yaitu Glassfish server.
+ Jika Server Glassfish sudah terinstall maka dapat menggunakan library Java DB Driver
+-Selain itu juga menginstall Library MySQL connection J.
+-Cara menghubungkan Program java dengan Database
+-Cara menginsert dan mengread dari program java ke Database
+-Menampilkan ke dalam JTable dimana datanya berasal dari Database
+-Mempelajari tentang pergantian panel, di sini saya menggunakan tab panel, jadi jika ingin berganti panel
+ hanya tinggal memilih index dari panel yang sudah ada.
+-Mempelajari cara mengupload foto, cara mengupload foto adalah dengan menggunakan label, lalu terdapat property icon
+ sisanya penuhi saja material yang dibutuhkan.
+
+Fitur Yang Sudah Dikerjakan
+-Sesuai yang sudah dispesifikasikan.
+-Pertama icon untuk mengarahkan halaman aplikasi, terdapat icon, Form, Database, Info.
+-Form yang dapat diisi dengan attribut mobil yang dimana attribut ini dapat diInsert ke dalam database terkait saat tombol submit ditekan.
+-Halaman Database yang menampilkan data pada database ke dalam JTable yang ada di dalam aplikasi java.
+-Pada info terdapat biography pembuat dengan foto, nama, nim, dan jurusan,
+-Tampilan layout memiliki tujuan simplisitas dan modern(namun sepertinya gagal).
+-Font yang digunakan, judul Form digunakan Impact
+ Untuk nama, Forte
+ Untuk NIM, DK Kitsuke Tail
+ Untuk jurusan, Arial Black
+ Semua font dapat didownload di Dafont atau Squirrel Font
