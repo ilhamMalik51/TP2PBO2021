@@ -1,0 +1,8 @@
+Untuk membuka database netbeans
+-Pertama download derby.zip
+-Lalu setelah itu, extract file nya lalu simpan pada directory yang diinginkan
+-Buka netbeans
+-Lalu pada tab services (jika tidak ada buka tab window->services atau ctrl+5)
+-Lalu di dalam services terdapat Database node, buka note tersebut
+-Lalu klik kanan pada javaDB dan pilih properties
+-Pada Database Location, arahkan path pada Directory/Folder yang tadi sudah diekstrak
